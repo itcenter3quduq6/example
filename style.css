@@ -5,3 +5,8 @@ h1{
 h2{
     color: aqua;
 }
+
+.bg{
+    background-image: linear-gradient(white, black);
+    height: 100vh;
+}
